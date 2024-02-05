@@ -26,13 +26,6 @@ Este projeto foi criado como parte de curso de formação frontend pela Udemy.
 - `img`: Pasta contendo as imagens do aparelho em diferentes cores.
 
 
-## Como Executar
-
--   Clone este repositório em seu computador:
-    git clone https://github.com/seu-usuario/nome-do-repositorio.git
-
--   Abra o arquivo `index.html` em seu navegador da web.
-
 ## Autores
 
 - [@RaquelGui](https://www.github.com/RaquelGui)
